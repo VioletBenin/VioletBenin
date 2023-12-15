@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VioletBenin
-- 👀 I’m interested in *C/C++ QT Develepment*
-- 🌱 I’m currently learning *C/C++ QT Develepment*
-- 💞️ I’m looking to collaborate on myself
+- 👀 I’m interested in *NLP & Machine learning*
+- 🌱 I’m currently learning *Python*
+- 💞️ I’m looking to collaborate with active responders
 - 📫 How to reach me By violetbenin@outlook.com
 
 <!---
